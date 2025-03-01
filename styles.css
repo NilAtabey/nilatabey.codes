@@ -76,7 +76,7 @@ a {
     transform: scale(1.02);
 }
 
-.tile-share-button {
+.tile-copy-link-button {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -87,7 +87,7 @@ a {
     background-color: rgb(220,220,220);
 }
 
-.tile-share-button svg {
+.tile-copy-link-button svg {
     width: 50%;
     height: 50%;
 }
